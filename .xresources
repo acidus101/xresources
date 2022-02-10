@@ -1,0 +1,70 @@
+URxvt.font: xft:monospace:size=14,xft:Inconsolata\ for\ Powerline:pixelsize=15
+URxvt.scrollBar: false
+urxvt*blurRadius: 5
+
+! special
+URxvt*foreground:   #d2c5bc
+URxvt*background:   #101010
+URxvt*cursorColor:  #d2c5bc
+
+! black
+URxvt*color0:       #202020
+URxvt*color8:       #606060
+
+! red
+URxvt*color1:       #b91e2e
+URxvt*color9:       #d14548
+
+! green
+URxvt*color2:       #81957c
+URxvt*color10:      #a7b79a
+
+! yellow
+URxvt*color3:       #f9bb80
+URxvt*color11:      #fae3a0
+
+! blue
+URxvt*color4:       #356579
+URxvt*color12:      #7491a1
+
+! magenta
+URxvt*color5:       #2d2031
+URxvt*color13:      #87314e
+
+! cyan
+URxvt*color6:       #0b3452
+URxvt*color14:      #0f829d
+
+! white
+URxvt*color7:       #909090
+URxvt*color15:      #fff0f0
+
+URxvt-perl-ext-common: fullscreen
+URxvt.keysym.F11: perl:fullscreen:switch
+
+! true transparency
+URxvt*depth: 32
+!URxvt*transparent: true
+!URxvt*background: [90]#0a0f14
+
+! border
+URxvt*borderLess: false
+URxvt*internalBorder: 5
+URxvt*externalBorder: 0
+
+! scrollbar
+URxvt*scrollBar: false
+
+! cursor
+URxvt*cursorBlink: true
+URxvt*cursorUnderline: 1
+
+
+! letter spacing
+URxvt*letterSpace: -1
+
+URxvt*dynamicColors: on
+URxvt*urgentOnBell: true
+
+! Size
+URxvt*font:	*-fixed-*-*-*-14-*
